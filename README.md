@@ -52,6 +52,11 @@ Logbog for informatik
  Vores iteration 1 indeholdede koden til arduinoen som fik vores joystick og knap til at måle data og sende det til arduinoen. Vi havde også begyndelsen på vores python kode til både joysticket og vores knap.
   Vores rapport af drone controlleren 
   
+  ![arduino](/images/arduino.png)
+  ![python](/images/python.png)
+
+  
+  
   
   
   * __Hvad lærte vi:__
