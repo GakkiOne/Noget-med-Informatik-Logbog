@@ -22,20 +22,20 @@ Logbog for informatik
   
   ![Kugle](/images/Kugle.png)
   
- 
-  * __Hvad lærte vi:__ 
-  Vi lærte at bruge Fusion 360 som et 3D redskab, og CURE til at formatere vores figur til kode(kordinater), som 3D printeren så kunne bruge til at lave vores figur.
 
 ## Systemdesign
   * __Hvad vi gjorde:__ 
-  
+  Vi lavede en analyse af hvordan Tello Dronen fungerede, og hvordan dens systemer var opbygget og hængte sammen. Vi lavede blandt andet en 3-lagsmodel over hvordan vi troede Tello dronens systemer snakkede sammen med hinanden. Efter lavede jeg et blokdiagram som visualiserede hvad systemets 3-lag indeholdte og hvordan de snakkede sammen.
   * __Hvad lærte vi:__
+  Vi lærte hvordan vi kunne tænke og forstå hvordan for eksempel en drones komponenter snakker sammen, og visualisere det ved hjælp af 3-lagsmodellen, bolkdiagram og flowcharts.
   
   ![blokdiagram](/images/blokdiagram.png)
   ![trelagsmodel](/images/trelagsmodel.jpg)
   
 ## Programmering
    * __Hvad vi gjorde:__
+   
+   
    * __Hvad lærte vi:__
  
  
