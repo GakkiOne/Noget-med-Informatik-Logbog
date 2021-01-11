@@ -6,7 +6,7 @@ Logbog for informatik
 * [Systemdesign](#Systemdesign)
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
-* [Sikkerhed](#Sikkerhed)
+* [Sikkerhed Privathed](#Sikkerhed-Privathed)
 
 
 ## Makeraktiviteter
@@ -39,7 +39,7 @@ Logbog for informatik
   * __Hvad vi gjorde:__ 
   * __Hvad lærte vi:__
   
-## Sikkerhed
+## Sikkerhed Privathed
   * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
   
   * __Hvad lærte vi:__ 
