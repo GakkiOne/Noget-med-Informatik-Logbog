@@ -1,4 +1,4 @@
-# Noget-med-Informatik-Logbog
+# Informatik-Logbog
 Logbog for informatik
 
 ## 3D print Geometri
