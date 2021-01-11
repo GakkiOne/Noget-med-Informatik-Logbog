@@ -29,6 +29,8 @@ Logbog for informatik
   
   * __Hvad lærte vi:__
   
+  ![blokdiagram](/images/blokdiagram.png)
+  ![trelagsmodel](/images/trelagsmodel.jpg)
   
 ## Programmering
    * __Hvad vi gjorde:__
