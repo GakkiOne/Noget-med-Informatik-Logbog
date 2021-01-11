@@ -30,7 +30,9 @@ Logbog for informatik
   Vi lærte hvordan vi kunne tænke og forstå hvordan for eksempel en drones komponenter snakker sammen, og visualisere det ved hjælp af 3-lagsmodellen, bolkdiagram og flowcharts.
   
   ![blokdiagram](/images/blokdiagram.png)
+  Blokdiagram
   ![trelagsmodel](/images/trelagsmodel.jpg)
+  3-lagsmodel
   
 ## Programmering
    * __Hvad vi gjorde:__
@@ -48,7 +50,7 @@ Logbog for informatik
  ![flowchartdrone](/images/flowchartdrone.png)
  
  Vores iteration 1 indeholdede koden til arduinoen som fik vores joystick og knap til at måle data og sende det til arduinoen. Vi havde også begyndelsen på vores python kode til både joysticket og vores knap.
-  Vores rapport af 
+  Vores rapport af drone controlleren 
   
   
   
