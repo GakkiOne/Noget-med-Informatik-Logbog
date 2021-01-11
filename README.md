@@ -44,7 +44,8 @@ Logbog for informatik
   * __Hvad vi gjorde:__ 
   Under vores forlåb med Dronecontroller har vi både lavet en iteration 0, 1, brugerundersøgelse og en rapport. Vores iteration 0 gik ud på at brainstorme en ide til hvad vores          controller skulle indholde, så dronen kunne udføre en opgave. Vi lavede blandt andet et flowchart over hvordan controlleren skulle virke og hvilke knapper den skulle have. Vi lavede også et blokdiagram der viste hvordan controlleren og dronen skulle hængde sammen.
  
- 
+ ![blokdiagramdrone](/images/blokdiagramdrone.png)
+ ![flowchartdrone](/images/flowchartdrone.png)
  
  Vores iteration 1 indeholdede koden til arduinoen som fik vores joystick og knap til at måle data og sende det til arduinoen. Vi havde også begyndelsen på vores python kode til både joysticket og vores knap.
   Vores rapport af 
