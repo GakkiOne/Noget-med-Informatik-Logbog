@@ -61,6 +61,7 @@ Logbog for informatik
   * __Hvad lærte vi:__
   Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og             flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på   alt der blivet lavet.
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
+  
   Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
   
   | Datatype          | Følsomhed |   |   |   |
@@ -73,7 +74,7 @@ Logbog for informatik
 | Fødselsdato       | Normal    |   |   |   |
 | Navn              | Normal    |   |   |   |
 | Biometriske data  | Følsom    |   |   |   |
-| Gæld              | Følsom    |   |   |   |
+| Gæld              | Normal    |   |   |   |
 | Seksuelle forhold | Følsom    |   |   |   |
 | Arbejdsområde     | Normal    |   |   |   |
 |                   |           |   |   |   |
