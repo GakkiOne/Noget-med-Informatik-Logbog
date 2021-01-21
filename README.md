@@ -63,6 +63,20 @@ Logbog for informatik
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
   Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
   
+  | Datatype          | Følsomhed |   |   |   |
+|-------------------|-----------|---|---|---|
+| Etnisk oprindelse | Følsom    |   |   |   |
+| Religion          | Følsom    |   |   |   |
+| Adresse           | Normal    |   |   |   |
+| Race              | Følsom    |   |   |   |
+| Økonomi           | Følsom    |   |   |   |
+| Fødselsdato       | Normal    |   |   |   |
+| Navn              | Normal    |   |   |   |
+| Biometriske data  | Følsom    |   |   |   |
+| Gæld              | Følsom    |   |   |   |
+| Seksuelle forhold | Følsom    |   |   |   |
+| Arbejdsområde     | Normal    |   |   |   |
+|                   |           |   |   |   |
   
 ## Sikkerhed Privathed
   * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
