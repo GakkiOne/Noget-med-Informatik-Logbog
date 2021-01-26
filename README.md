@@ -62,9 +62,12 @@ Logbog for informatik
   Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og             flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på   alt der blivet lavet.
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
   
-  Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
   
-  | Datatype          | Følsomhed |   |   |   |
+## Sikkerhed Privathed
+  * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
+  
+  
+    | Datatype          | Følsomhed |   |   |   |
 |-------------------|-----------|---|---|---|
 | Etnisk oprindelse | Følsom    |   |   |   |
 | Religion          | Følsom    |   |   |   |
@@ -78,9 +81,8 @@ Logbog for informatik
 | Seksuelle forhold | Følsom    |   |   |   |
 | Arbejdsområde     | Normal    |   |   |   |
 |                   |           |   |   |   |
-  
-## Sikkerhed Privathed
-  * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
+
+  Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
   
   * __Hvad lærte vi:__ 
   
