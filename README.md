@@ -66,7 +66,7 @@ Logbog for informatik
 ## Sikkerhed Privathed
   * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
   
-    | Datatype          | Følsomhed |   |   |  
+| Datatype          | Følsomhed |   |   |   |
 |-------------------|-----------|---|---|---|
 | Etnisk oprindelse | Følsom    |   |   |   |
 | Religion          | Følsom    |   |   |   |
@@ -76,7 +76,7 @@ Logbog for informatik
 | Fødselsdato       | Normal    |   |   |   |
 | Navn              | Normal    |   |   |   |
 | Biometriske data  | Følsom    |   |   |   |
-| Gæld              | Normal    |   |   |   |
+| Gæld              | Følsom    |   |   |   |
 | Seksuelle forhold | Følsom    |   |   |   |
 | Arbejdsområde     | Normal    |   |   |   |
 |                   |           |   |   |   |
