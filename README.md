@@ -7,7 +7,7 @@ Logbog for informatik
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
-* [Reklamespil / Undervisningsspil](#Reklamespil / Undervisningsspil)
+* [Reklamespil / Undervisningsspil](#Reklamespil-/-Undervisningsspil)
 
 
 ## Makeraktiviteter
