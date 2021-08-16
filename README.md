@@ -7,7 +7,7 @@ Logbog for informatik
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
-* [Reklamespil / Undervisningsspil](#Reklamespil-/-Undervisningsspil)
+* [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
 
 
 ## Makeraktiviteter
@@ -60,7 +60,7 @@ Logbog for informatik
   Pythonkode
 
   * __Hvad lærte vi:__
-  Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og             flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på   alt der blivet lavet.
+  Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på   alt der blivet lavet.
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
   
   
@@ -88,8 +88,9 @@ Logbog for informatik
   * __Hvad lærte vi:__ 
 
 
-## Reklamespil / Undervisningsspil
-  * __Hvad vi gjorde:__ 
+## Reklamespil Undervisningsspil
+  
+  #### Hvad vi gjorde 
  
   * __Målgruppeværktøjer:__ Vi har gjordt brug af Minerva modellen, AIDA modellen, forskellige spillertyper og til sidst Persona. Vi har skulle bruge dette til at lære hvordan man er mere målgruppe oriterenret når man laver et spil eller en reklame. Dette er vigtigt, da hvis målgruppen ikke er tænkt på kan en reklame eller psil mislykkes meget nemt.
 
