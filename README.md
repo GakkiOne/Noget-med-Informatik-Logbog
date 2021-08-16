@@ -7,6 +7,7 @@ Logbog for informatik
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
+* [Reklamespil / Undervisningsspil](#Reklamespil / Undervisningsspil)
 
 
 ## Makeraktiviteter
@@ -85,4 +86,14 @@ Logbog for informatik
   Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
   
   * __Hvad lærte vi:__ 
+
+
+## Reklamespil / Undervisningsspil
+  * __Hvad vi gjorde:__ 
+ 
+  * __Målgruppeværktøjer:__ Vi har gjordt brug af Minerva modellen, AIDA modellen, forskellige spillertyper og til sidst Persona. Vi har skulle bruge dette til at lære hvordan man er mere målgruppe oriterenret når man laver et spil eller en reklame. Dette er vigtigt, da hvis målgruppen ikke er tænkt på kan en reklame eller psil mislykkes meget nemt.
+
+
+  * __Designværktøjer:__ 
+
   
