@@ -97,4 +97,4 @@ Logbog for informatik
 
   * __Designværktøjer:__ Vi har brugt AIDA modellen til at kigge på hvordan man ombygger en reklame og et spil, og kigget på spilmekanismer vores reklamespil kunne indeholde, så der ville være flere muligheder for brugerinteraktion.
 
-  
+  * __Vores projekt:__ Gennem forløbet har vi gjotdt brug af disse modeller til at vi som slutning skulle lavet et spil som skulel have implementeret en form for reklame i spillet. Vi har gjordt brug af disse modeller til at 
