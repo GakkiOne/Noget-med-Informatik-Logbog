@@ -106,7 +106,7 @@ Logbog for informatik
  
   * __OSI Model:__ 
 
-![OSI](/images/OSI.)
+![OSI](/images/OSI.jpeg)
   OSI Model
 
   * __Designværktøjer:__ Vi har brugt AIDA modellen til at kigge på hvordan man ombygger en reklame og et spil, og kigget på spilmekanismer vores reklamespil kunne indeholde, så der ville være flere muligheder for brugerinteraktion.
