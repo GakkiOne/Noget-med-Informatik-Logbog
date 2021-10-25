@@ -8,7 +8,7 @@ Logbog for informatik
 * [Dronecontroller](#Dronecontroller)
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
 * [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
-* 
+* [Computer / Netværk](#Computer-Netværk)
 
 
 ## Makeraktiviteter
@@ -100,7 +100,7 @@ Logbog for informatik
 
   * __Vores projekt:__ Gennem forløbet har vi gjotdt brug af disse modeller til at vi som slutning skulle lavet et spil som skulle have implementeret en form for reklame. Vi har gjordt brug af disse modeller til at komme frem til målgrupper og reklamer ideer og herefter videre arbejdet på dem, for at tænke ideer til hvordan man kunne implementere dem i vores spil.
 
-## Computer og Netværk
+## Computer Netværk
   
   #### Hvad vi gjorde 
  
