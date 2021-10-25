@@ -8,6 +8,7 @@ Logbog for informatik
 * [Dronecontroller](#Dronecontroller)
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
 * [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
+* 
 
 
 ## Makeraktiviteter
@@ -94,6 +95,19 @@ Logbog for informatik
  
   * __Målgruppeværktøjer:__ Vi har gjordt brug af Minerva modellen, AIDA modellen, forskellige spillertyper og til sidst Persona. Vi har skulle bruge dette til at lære hvordan man er mere målgruppe oriterenret når man laver et spil eller en reklame. Dette er vigtigt, da hvis målgruppen ikke er tænkt på kan en reklame eller psil mislykkes meget nemt.
 
+
+  * __Designværktøjer:__ Vi har brugt AIDA modellen til at kigge på hvordan man ombygger en reklame og et spil, og kigget på spilmekanismer vores reklamespil kunne indeholde, så der ville være flere muligheder for brugerinteraktion.
+
+  * __Vores projekt:__ Gennem forløbet har vi gjotdt brug af disse modeller til at vi som slutning skulle lavet et spil som skulle have implementeret en form for reklame. Vi har gjordt brug af disse modeller til at komme frem til målgrupper og reklamer ideer og herefter videre arbejdet på dem, for at tænke ideer til hvordan man kunne implementere dem i vores spil.
+
+## Computer og Netværk
+  
+  #### Hvad vi gjorde 
+ 
+  * __OSI Model:__ 
+
+![OSI](/images/OSI.)
+  OSI Model
 
   * __Designværktøjer:__ Vi har brugt AIDA modellen til at kigge på hvordan man ombygger en reklame og et spil, og kigget på spilmekanismer vores reklamespil kunne indeholde, så der ville være flere muligheder for brugerinteraktion.
 
