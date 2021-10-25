@@ -9,7 +9,7 @@ Logbog for informatik
 * [Sikkerhed Privathed](#Sikkerhed-Privathed)
 * [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
 * [Computer / Netværk](#Computer-Netværk)
-
+* [Databaser](#Databaser)
 
 ## Makeraktiviteter
   * __Hvad vi gjorde:__ 
