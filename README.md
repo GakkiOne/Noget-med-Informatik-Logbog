@@ -10,6 +10,7 @@ Logbog for informatik
 * [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
 * [Computer / Netværk](#Computer-Netværk)
 * [Databaser](#Databaser)
+* [Robotteknologi](#Robotteknologi)
 
 ## Makeraktiviteter
   * __Hvad vi gjorde:__ 
@@ -120,4 +121,11 @@ Logbog for informatik
   #### Hvad vi gjorde 
  
   * __MariaDB:__ I database forløbet bygget vi videre på database delen vha. af MariaDB. Vi oprettet en ny database hvor vi oprettet en bruger og password til brugeren. Vi kunne så derefter overfører en fil grunstoffer.sql til databasen, så vores linux server kan læse og forstå sql koden vha. php så linux server kan omformatere det til html kode, og vi kan få vist vores grundstoffer på vores hjemmeside.
+
+
+## Robotteknologi
+  
+  #### Hvad vi gjorde 
+ 
+  * __Micro Maqueen:__ Maqueen er en robot der vha af ultrasonisk lyd og lasere kan navigere en linje eller andre objekter. Vi programere på den og leger med dens egenskaber som er kodet i micropython. Micropython er en mindre version af micropython der er brugt i programmering af små robotter, og nemt kan lave kode fra python til kode robotten forstår.
 
