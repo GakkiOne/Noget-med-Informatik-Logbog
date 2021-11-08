@@ -145,10 +145,10 @@ Logbog for informatik
 * Compass
 * Accelerometer
 * Buttons
-* Reset button
-* A & B button
-* Line key button
-* On/off power
+  * Reset button
+  * A & B button
+  * Line key button
+  * On/off power
 
 #### Outputs
 * Motor function
