@@ -153,13 +153,13 @@ Logbog for informatik
 #### Outputs
 * Motor function
 * Pins 
-* LED bottom pins (P15)
-* Line left & line right (P13 & P14)
-* LED right (P12)
-* LED left (P8)
-* Audio output (P0)
-* Infrared receiver (P16)
-* Extra pin slots (P0, P1 & P2)
+ * LED bottom pins (P15)
+ * Line left & line right (P13 & P14)
+ * LED right (P12)
+ * LED left (P8)
+ * Audio output (P0)
+ * Infrared receiver (P16)
+ * Extra pin slots (P0, P1 & P2)
 * Motion sensor
 * Gyroscope
 * Compass
