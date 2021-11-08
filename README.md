@@ -129,7 +129,7 @@ Logbog for informatik
  
   * __Micro Maqueen:__ Maqueen er en robot der vha af ultrasonisk lyd og lasere kan navigere en linje eller andre objekter. Vi programere på den og leger med dens egenskaber som er kodet i micropython. Micropython er en mindre version af micropython der er brugt i programmering af små robotter, og nemt kan lave kode fra python til kode robotten forstår.
 
-## Inputs
+#### Inputs
 * Pins 
 * LED bottom pins (P15)
 * Line left & line right (P13 & P14)
@@ -150,20 +150,20 @@ Logbog for informatik
 * Line key button
 * On/off power
 
-## Outputs
-Motor function
-Pins 
-LED bottom pins (P15)
-Line left & line right (P13 & P14)
-LED right (P12)
-LED left (P8)
-Audio output (P0)
-Infrared receiver (P16)
-Extra pin slots (P0, P1 & P2)
-Motion sensor
-Gyroscope
-Compass
-Accelerometer
-LED output when follow line
-LED output when power connected
+#### Outputs
+* Motor function
+* Pins 
+* LED bottom pins (P15)
+* Line left & line right (P13 & P14)
+* LED right (P12)
+* LED left (P8)
+* Audio output (P0)
+* Infrared receiver (P16)
+* Extra pin slots (P0, P1 & P2)
+* Motion sensor
+* Gyroscope
+* Compass
+* Accelerometer
+* LED output when follow line
+* LED output when power connected
 
