@@ -129,41 +129,46 @@ Logbog for informatik
  
   * __Micro Maqueen:__ Maqueen er en robot der vha af ultrasonisk lyd og lasere kan navigere en linje eller andre objekter. Vi programere på den og leger med dens egenskaber som er kodet i micropython. Micropython er en mindre version af micropython der er brugt i programmering af små robotter, og nemt kan lave kode fra python til kode robotten forstår.
 
+ * __Sensorne:__
+Sensorener
+
 #### Inputs
-* Pins 
-  * LED bottom pins (P15)
-  * Line left & line right (P13 & P14)
-  * LED right (P12)
-  * LED left (P8)
-  * Audio input (P0)
-  * Infrared receiver (P16)
-  * Battery connector pin
-  * Extra pin slots (P0, P1 & P2)
-* Motion sensor
-* Microphone
-* Gyroscope
-* Compass
-* Accelerometer
+* Pins
+  * LED bottom pins (P15) - (RP)
+  * Line left & line right (P13 & P14) - (RP)
+  * LED right (P12) - (RP)
+  * LED left (P8) - (RP)
+  * Audio control (P0) - (RP)
+  * Infrared receiver (P16) - (RP)
+  * Battery connector pin - (RP)
+  * Extra pin slots (P0, P1 & P2) - (RP)
+* Motion sensor - (RP)
+* Microphone - (MB)
+* Gyroscope - (MB)
+* Compass - (MB)
+* Accelerometer - (MB)
 * Buttons
-  * Reset button
-  * A & B button
-  * Line key button
-  * On/off power
+  * Reset button - (RP)
+  * A & B button - (MB)
+  * Line key button - (RP)
+  * On/off power - (RP)
+
 
 #### Outputs
-* Motor function
-* Pins 
-  * LED bottom pins (P15)
-  * Line left & line right (P13 & P14)
-  * LED right (P12)
-  * LED left (P8)
-  * Audio output (P0)
-  * Infrared receiver (P16)
-  * Extra pin slots (P0, P1 & P2)
-* Motion sensor
-* Gyroscope
-* Compass
-* Accelerometer
-* LED output when follow line
-* LED output when power connected
+* Motor function - (RP)
+* Pins
+  * LED bottom pins (P15) - (RP)
+  * Line left & line right (P13 & P14) - (RP)
+  * LED right (P12) - (RP)
+  * LED left (P8) - (RP)
+  * Audio output - (MB)
+  * Infrared receiver (P16) - (RP)
+  * Extra pin slots (P0, P1 & P2) - (RP)
+* Motion sensor - (RP)
+* Gyroscope - (MB)
+* Compass - (MB)
+* Accelerometer - (MB)
+* LED output when follow line - (RP)
+* LED output when power connected - (MB)
+
 
