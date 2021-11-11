@@ -125,12 +125,13 @@ Logbog for informatik
 
 ## Robotteknologi
   
-  #### Hvad vi gjorde 
+  ####
  
   * __Micro Maqueen:__ Maqueen er en robot der vha af ultrasonisk lyd og lasere kan navigere en linje eller andre objekter. Vi programere på den og leger med dens egenskaber som er kodet i micropython. Micropython er en mindre version af micropython der er brugt i programmering af små robotter, og nemt kan lave kode fra python til kode robotten forstår.
 
- * __Sensorne:__
-Sensorener
+ * __Sensorne:__ De manger sensorer der sidder på robtten har jeg valgt at dele op i "RP" som er robotplatformen, og "MB" for Main Board. Main boarded også kaldet microbitten er sensorer som speaker, kompass, gyroscope og mikrofon. 
+
+* __Benyttelse:__ De mange sensorer måler som regelt er 0 og 1 værdierne, men kan også måle længder, styrke og varighed. Der er derfor mange kombinationer der kan laves mellem sensorne og forskellige brug senarier. Sensorne kan blandt andet følge en linje med to lasere målere. Den har også ultrasonisk lyd til at kunne ekkolokalisere objekter foran den og så kan den stoppe.
 
 #### Inputs
 * Pins
