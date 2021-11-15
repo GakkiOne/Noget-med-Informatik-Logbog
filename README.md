@@ -178,32 +178,34 @@ Logbog for informatik
 * LED output when follow line - (RP)
 * LED output when power connected - (MB)
 
-| Nr.| Outputs                         | Pin         | Plads |   |
-|----|---------------------------------|-------------|-------|---|
-| 1  | Motor                           |             | RP    |   |
-| 2  | Pins                            |             |       |   |
-| 3  | Led Button pins                 | P15         | RP    |   |
-| 4  | Line left & line right          | P13 & P14   | RP    |   |
-| 5  | LED Left & right                | P8 & P12    | RP    |   |
-| 6  | Audio control                   | P0          | RP    |   |
-| 7  | Infared receiver                | P16         | RP    |   |
-| 8  | Extra pin slots                 | P0, P1 & P2 | RP    |   |
-| 9  | Motion sensor                   |             | RP    |   |
-| 10 | Gyroscope                       |             | MP    |   |
-| 11 | Compass                         |             | MP    |   |
-| 12 | Accelerometer                   |             | MP    |   |
-| 13 | Buttons                         |             | MP    |   |
-| 14 | Reset button                    |             | RP    |   |
-| 15 | A & B button                    |             | MB    |   |
-| 16 | Line key button                 |             | RP    |   |
-| 14 | On/Off power                    |             | RP    |   |
-
-
-
 | Nr.| Inputs                          | Pin         | Plads |   |
 |----|---------------------------------|-------------|-------|---|
-| 1  | Pins                            |             | RP    |   |
-| 2  | LED button pins                 |             |       |   |
+| 1  | Pins                            |             |       |   |
+| 2  | Led Button pins                 | P15         | RP    |   |
+| 3  | Line left & line right          | P13 & P14   | RP    |   |
+| 4  | LED Left & right                | P8 & P12    | RP    |   |
+| 5  | Audio control                   | P0          | RP    |   |
+| 6  | Infared receiver                | P16         | RP    |   |
+| 7  | Battery connector pin           |             | RP    |   |
+| 8  | Extra pin slots                 | P0, P1 & P2 | RP    |   |
+| 9  | Motion sensor                   |             | RP    |   |
+| 10 | Microphone                      |             | MP    |   |
+| 11 | Gyroscope                       |             | MP    |   |
+| 12 | Compass                         |             | MP    |   |
+| 13 | Accelerometer                   |             | MP    |   |
+| 14 | Buttons                         |             |       |   |
+| 15 | Reset button                    |             | RP    |   |
+| 16 | A & B button                    |             | MB    |   |
+| 17 | Line key button                 |             | RP    |   |
+| 18 | On/Off power                    |             | RP    |   |
+
+
+
+| Nr.| Outputs                         | Pin         | Plads |   |
+|----|---------------------------------|-------------|-------|---|
+| 1  | Motor functions                 |             | RP    |   |
+| 1  | Pins                            |             |       |   |
+| 2  | LED button pins                 |             | RP    |   |
 | 3  | Line left & line right          | P13 & P14   | RP    |   |
 | 4  | LED Left & right                | P8 & P12    | RP    |   |
 | 5  | Audio                           |             | MB    |   |
@@ -211,7 +213,6 @@ Logbog for informatik
 | 7  | Extra pin slots                 | P0, P1 & P2 | RP    |   |
 | 8  | Battery connector pin           |             | RP    |   |
 | 9  | Motion sensor                   |             | RP    |   |
-| 9  | Microphone                      |             | MP    |   |
 | 10 | Gyroscope                       |             | MP    |   |
 | 11 | Compass                         |             | MP    |   |
 | 12 | Accelerometer                   |             | MP    |   |
