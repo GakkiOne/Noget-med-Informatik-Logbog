@@ -11,6 +11,8 @@ Logbog for informatik
 * [Computer / Netværk](#Computer-Netværk)
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
+* [Datavisualisering af studietur](#Datavisualisering af studietur)
+
 
 ## Makeraktiviteter
   * __Hvad vi gjorde:__ 
@@ -173,3 +175,4 @@ Logbog for informatik
 * LED output when power connected - (MB)
 
 
+## Datavisualisering af studietur
