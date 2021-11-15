@@ -11,7 +11,7 @@ Logbog for informatik
 * [Computer / Netværk](#Computer-Netværk)
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
-* [Datavisualisering / studietur](#Datavisualisering-af-studietur)
+* [Datavisualisering / studietur](#Datavisualisering-studietur)
 
 
 ## Makeraktiviteter
