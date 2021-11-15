@@ -139,44 +139,6 @@ Logbog for informatik
 
   ![Microbit](/images/Microbit.png)
 
-#### Inputs
-* Pins
-  * LED bottom pins (P15) - (RP)
-  * Line left & line right (P13 & P14) - (RP)
-  * LED right (P12) - (RP)
-  * LED left (P8) - (RP)
-  * Audio control (P0) - (RP)
-  * Infrared receiver (P16) - (RP)
-  * Battery connector pin - (RP)
-  * Extra pin slots (P0, P1 & P2) - (RP)
-* Motion sensor - (RP)
-* Microphone - (MB)
-* Gyroscope - (MB)
-* Compass - (MB)
-* Accelerometer - (MB)
-* Buttons
-  * Reset button - (RP)
-  * A & B button - (MB)
-  * Line key button - (RP)
-  * On/off power - (RP)
-
-
-#### Outputs
-* Motor function - (RP)
-* Pins
-  * LED bottom pins (P15) - (RP)
-  * Line left & line right (P13 & P14) - (RP)
-  * LED right (P12) - (RP)
-  * LED left (P8) - (RP)
-  * Audio output - (MB)
-  * Infrared receiver (P16) - (RP)
-  * Extra pin slots (P0, P1 & P2) - (RP)
-* Motion sensor - (RP)
-* Gyroscope - (MB)
-* Compass - (MB)
-* Accelerometer - (MB)
-* LED output when follow line - (RP)
-* LED output when power connected - (MB)
 
 | Nr.| Inputs                          | Pin         | Plads |   |
 |----|---------------------------------|-------------|-------|---|
