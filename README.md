@@ -12,6 +12,7 @@ Logbog for informatik
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
+* [Flask / SQLite / Databaser](#Flask-SQLite-Databaser)
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
  
 
@@ -184,6 +185,7 @@ Logbog for informatik
 
 ## Datavisualisering studietur
 
+## Flask SQLite Databaser
 
 ## Hacking Cybersikkerhed
 
