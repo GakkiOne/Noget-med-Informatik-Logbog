@@ -12,7 +12,8 @@ Logbog for informatik
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
-
+* [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
+ 
 
 ## Makeraktiviteter
   * __Hvad vi gjorde:__ 
@@ -182,3 +183,9 @@ Logbog for informatik
 | 14 | LED output when follow line     |             | MP    |   |
 
 ## Datavisualisering studietur
+
+
+## Hacking Cybersikkerhed
+
+
+
