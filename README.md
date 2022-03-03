@@ -193,6 +193,9 @@ Logbog for informatik
 
 * __Selv prøvning med Hacking:__ Vi har d. 03/03/2022 selv prøvet har leget rundt med hjemmesiden hackthissite og tryhackme. På hjemmesiden hackthissite gennemførte jeg de 2 første opgaverm hvilket var meget nemmme. Den første opgave var flaget lagt i selve HTML koden og kunne bare skrives ind som password. Den anden opgave havde en person ved navn Sam lavet en krypteret fil der der læser om den indtastede kode er lig password, problemet var at han havde glemt at ligge filen ind i koden. Derfor var der ikke noget password.
 * Den anden hjemmeside Tryhackme havde et træningsprogram hvor man lærte det helt basale til cybersikkerhed. Jeg tog et par af disse træningsprogrammer, men det var meget basalt, og fik ikke vildt meget ud af det.
+* Jeg har senere også prøvet kræfter med kvalifikationerne fra de danske cybermesterskaber, hvor der lykkedes mig at klare opgaven strings. Jeg kan desværre ikke gå i detajler om hvordan man klare den, men der bliver givet en .txt fil hvor i man leder efter clues.
+
+
 
 
 
