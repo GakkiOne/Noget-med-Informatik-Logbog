@@ -187,5 +187,11 @@ Logbog for informatik
 
 ## Hacking Cybersikkerhed
 
+* __Hacking:__ Vi har haft besøg af Kasper som er ambassadør for de danske cybermesterskaber. De danske Cybermesterskaber omhandler sikkerhed og hacking inden for It verdenen. Mesterskaberne, er lavet for at at fange unge der har interessse i emnet, og udvikle videre på deres potentiale, og senere i processen kan man score jobs hos blandt andet millitæret. Kasper viste os i slutningen af timen hvordan man hackede et virtuelt enviroment på hjemmesiden tryhackme. Vi fulgte n
+
+* __Selv prøvning med Hacking:__ Vi har d. 03/03/2022 selv prøvet har leget rundt med hjemmesiden hackthissite og tryhackme. På hjemmesiden hackthissite gennemførte jeg de 2 første opgaverm hvilket var meget nemmme. Den første opgave var flaget lagt i selve HTML koden og kunne bare skrives ind som password. Den anden opgave havde en person ved navn Sam lavet en krypteret fil der der læser om den indtastede kode er lig password, problemet var at han havde glemt at ligge filen ind i koden. Derfor var der ikke noget password.
+* Den anden hjemmeside Tryhackme havde et træningsprogram hvor man lærte det helt basale til cybersikkerhed. Jeg tog et par af disse træningsprogrammer, men det var meget basalt, og fik ikke vildt meget ud af det.
+
+
 
 
