@@ -203,32 +203,32 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 
 | Begreber| defination                         | mål         | Plads |   |
 |---------|---------------------------------|-------------|-------|---|
-| CTF | Capture the flag                |       root/user      | RP    |   |
+| CTF | Capture the flag                |       root/user      |    |   |
 | root  | administator                            |             |       |   |
-| user  |                  |             | RP    |   |
-| GTFO  | GetTheFuckOut          | P13 & P14   | RP    |   |
-| Enumeration | Enumeration               | nmap   | RP    |   |
-| Elevation /"Privilege escalation | Audio                           |             | MB    |   |
-| 6  | Infared receiver                | P16         | RP    |   |
-| 7  | Extra pin slots                 | P0, P1 & P2 | RP    |   |
-| 8  | Battery connector pin           |             | RP    |   |
-| 9  | Motion sensor                   |             | RP    |   |
-| 10 | Gyroscope                       |             | MP    |   |
-| 11 | Compass                         |             | MP    |   |
-| 12 | Accelerometer                   |             | MP    |   |
-| 13 | LED output when power connected |             | MP    |   |
-| 14 | LED output when follow line     |             | MP    |   |
+| user  |                  |             |     |   |
+| GTFO  | GetTheFuckOut          |    |     |   |
+| Enumeration | Enumeration               | nmap   |     |   |
+| Elevation /"Privilege escalation |     |             |   |   |
+| WriteUP | beskrevet process i at hacke et system               |          |    |   |
+| Ethical Hacking |                 | |    |   |
+|  CVE |                  |             |    |   |
+| RAT  |  Remote access trojan                |  program der giver adgang til at bruge computer |     |   |
+| Botnet|                 |  Netværk af computere styret af robotter / af en person  | Kan brute force koder, og ddos'se serverer    |   |
+| HatteFarver | Blackhat whitehat Gryhat |             |     |   |
+|     |                   |             |     |   |
+|     |       |             |     |   |
+|     |       |             |     |   |
 
 
-| Værktøjer | mål                        | mål         | Plads |   |
-|---------|---------------------------------|-------------|-------|---|
-| nmap | åbne porte / ip adresse               |       root/user      |    |   |
-| masscan  | undersøge maskiner online                            |             |       |   |
-| GTFO bin |                  |             |    |   |
-|  Shodan  |         |   |    |   |
-| Drib  |     Http(s) tjekker directories |    |   |   |
+| Værktøjer | hvilket begreb benytter de  | mål         | Plads |   |
+|-----------|---------------------------------|-------------|-------|---|
+| nmap      | Enumeration            | åbne porte / ip adresse  |    |   |
+| masscan   | Enumeration           |   undersøge maskiner online           |       |   |
+| GTFO bin  | Elevation                |             |    |   |
+|  Shodan   | Enumeration        |   |    |   |
+| Dirb      | Enumeration -> http(s)   | Http(s) tjekker directories  |   |   |
 |  VPN |   skjuler din oprindelige ip-adresse                   |             |  |   |
-|   |              |   |    |   |
+| Kali Linux  |              | jo mere stille du kan være  |    |   |
 |   |               |  |    |   |
 |   |          |             |    |   |
 |   |                  |             |    |   |
