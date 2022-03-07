@@ -30,7 +30,7 @@ Logbog for informatik
   ![Kugle](/images/Kugle.png)
   
 
-## Systemdesign
+# Systemdesign
   * __Hvad vi gjorde:__ 
   Vi lavede en analyse af hvordan Tello Dronen fungerede, og hvordan dens systemer var opbygget og hængte sammen. Vi lavede blandt andet en 3-lagsmodel over hvordan vi troede     Tello dronens systemer snakkede sammen med hinanden. Efter lavede jeg et blokdiagram som visualiserede hvad systemets 3-lag indeholdte og hvordan de snakkede sammen.
   * __Hvad lærte vi:__
@@ -41,7 +41,7 @@ Logbog for informatik
   ![trelagsmodel](/images/trelagsmodel.jpg)
   3-lagsmodel
   
-## Programmering
+# Programmering
    * __Hvad vi gjorde:__
    Under Programmerings forlåbet gik vi igang med at lege med arduinoer. Vi satte en sensor til arduionoen og satte derefter arduiono til vores computere, så vi kunne måle          sensorens data.
    
@@ -49,7 +49,7 @@ Logbog for informatik
    Vi fik et godt indtryk af hvordan man betjener en arduino. Dette bestod af at skrive noget kode til arduinoen, som så kan opfange data fra en sensor og give dataen videre til    os i python, hvor vi der kan skrive et program der udnytter denne data.
    
    
-## Dronecontroller
+# Dronecontroller
   * __Hvad vi gjorde:__ 
   Under vores forlåb med Dronecontroller har vi både lavet en iteration 0, 1, brugerundersøgelse og en rapport. Vores iteration 0 gik ud på at brainstorme en ide til hvad vores   controller skulle indholde, så dronen kunne udføre en opgave. Vi lavede blandt andet et flowchart over hvordan controlleren skulle virke og hvilke knapper den skulle have. Vi   lavede også et blokdiagram der viste hvordan controlleren og dronen skulle hængde sammen.
  
@@ -70,7 +70,7 @@ Logbog for informatik
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
   
   
-## Sikkerhed Privathed
+# Sikkerhed Privathed
   * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
   
 | Datatype          | Følsomhed |   |   |   |
@@ -94,7 +94,7 @@ Logbog for informatik
   * __Hvad lærte vi:__ 
 
 
-## Reklamespil Undervisningsspil
+# Reklamespil Undervisningsspil
   
   #### Hvad vi gjorde 
  
@@ -120,14 +120,14 @@ Logbog for informatik
 
   * __Sikkerhed:__ Vi har haft kigget meget på sikkerhed og hvordan beskyttelse på internetet fungere når man surfer rundt på hjemmesider, og andre former for platforme. SSH er en essentiel del af vores netværk og hvordan vi kommunikere med web-servere. Vi har også kort kigget på firewalls og sat dem op vha. nginx. Et redje parameter for sikkerhed er rsa nøglepar, som er ret kompliceret. 
 
-## Databaser
+# Databaser
   
   #### Hvad vi gjorde 
  
   * __MariaDB:__ I database forløbet bygget vi videre på database delen vha. af MariaDB. Vi oprettet en ny database hvor vi oprettet en bruger og password til brugeren. Vi kunne så derefter overfører en fil grunstoffer.sql til databasen, så vores linux server kan læse og forstå sql koden vha. php så linux server kan omformatere det til html kode, og vi kan få vist vores grundstoffer på vores hjemmeside.
 
 
-## Robotteknologi
+# Robotteknologi
   
   ####
   
@@ -183,11 +183,11 @@ Logbog for informatik
 | 13 | LED output when power connected |             | MP    |   |
 | 14 | LED output when follow line     |             | MP    |   |
 
-## Datavisualisering studietur
+# Datavisualisering studietur
 
-## Flask SQLite Databaser
+# Flask SQLite Databaser
 
-## Hacking Cybersikkerhed
+# Hacking Cybersikkerhed
 
 * __Hacking:__ Vi har haft besøg af Kasper som er ambassadør for de danske cybermesterskaber. De danske Cybermesterskaber omhandler sikkerhed og hacking inden for It verdenen. Mesterskaberne, er lavet for at at fange unge der har interessse i emnet, og udvikle videre på deres potentiale, og senere i processen kan man score jobs hos blandt andet millitæret. Kasper viste os i slutningen af timen hvordan man hackede et virtuelt enviroment på hjemmesiden tryhackme. Vi fulgte n
 
@@ -199,7 +199,7 @@ Jeg har senere også prøvet kræfter med kvalifikationerne fra de danske cyberm
 * Installation af Virtuelbox og Kali Linux
 Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at hente Virtuelbox og få importeret kali linux til den, men når jeg prøver at starte kali linux får jeg en error code som jeg ikke har kunne fikse. Tror det har noget med den måde ens Bio's er sat op på.
 
-# Begreber Værktøjer og Links
+## Begreber Værktøjer og Links
 
 | Begreber| defination                         | mål         | Plads |   |
 |---------|---------------------------------|-------------|-------|---|
