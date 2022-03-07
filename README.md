@@ -199,3 +199,44 @@ Jeg har senere også prøvet kræfter med kvalifikationerne fra de danske cyberm
 * Installation af Virtuelbox og Kali Linux
 Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at hente Virtuelbox og få importeret kali linux til den, men når jeg prøver at starte kali linux får jeg en error code som jeg ikke har kunne fikse. Tror det har noget med den måde ens Bio's er sat op på.
 
+# Begreber Værktøjer og Links
+
+| Begreber| defination                         | mål         | Plads |   |
+|---------|---------------------------------|-------------|-------|---|
+| CTF | Capture the flag                |       root/user      | RP    |   |
+| root  | administator                            |             |       |   |
+| user  |                  |             | RP    |   |
+| GTFO  | GetTheFuckOut          | P13 & P14   | RP    |   |
+| Enumeration | Enumeration               | nmap   | RP    |   |
+| Elevation /"Privilege escalation | Audio                           |             | MB    |   |
+| 6  | Infared receiver                | P16         | RP    |   |
+| 7  | Extra pin slots                 | P0, P1 & P2 | RP    |   |
+| 8  | Battery connector pin           |             | RP    |   |
+| 9  | Motion sensor                   |             | RP    |   |
+| 10 | Gyroscope                       |             | MP    |   |
+| 11 | Compass                         |             | MP    |   |
+| 12 | Accelerometer                   |             | MP    |   |
+| 13 | LED output when power connected |             | MP    |   |
+| 14 | LED output when follow line     |             | MP    |   |
+
+
+| Værktøjer | mål                        | mål         | Plads |   |
+|---------|---------------------------------|-------------|-------|---|
+| nmap | åbne porte / ip adresse               |       root/user      |    |   |
+| masscan  | undersøge maskiner online                            |             |       |   |
+| GTFO bin |                  |             |    |   |
+|  Shodan  |         |   |    |   |
+| Drib  |     Http(s) tjekker directories |    |   |   |
+|  VPN |   skjuler din oprindelige ip-adresse                   |             |  |   |
+|   |              |   |    |   |
+|   |               |  |    |   |
+|   |          |             |    |   |
+|   |                  |             |    |   |
+|   |                     |             |     |   |
+|   |                      |             |    |   |
+|   |              |             |    |   |
+|   |                         |             |  |   |
+|   |               |             |     |   |
+
+
+
