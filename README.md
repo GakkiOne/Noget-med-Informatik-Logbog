@@ -16,7 +16,7 @@ Logbog for informatik
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
  
 
-## Makeraktiviteter
+# Makeraktiviteter
   * __Hvad vi gjorde:__ 
   Vi brugte Fusion 360 til at lave en 3 figur, som skulle have et rumfang på 10cm^3, og have vores initial ingravet i figuren. Jeg valgte at lave en kugle, cylinder og firkant     og have bogstavet M ingravet. Vi gik 3 sammen om at udprint vores figure i makerspace. 24 timer senere var Figurene færdige, og de endte med at se rigtig gode ud. 
  
@@ -220,17 +220,17 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 |     |       |             |     |   |
 
 
-| Værktøjer | hvilket begreb benytter de  | mål         | Plads |   |
+| Værktøjer | Hvilket begreb benytter de  | formål         | Plads |   |
 |-----------|---------------------------------|-------------|-------|---|
 | nmap      | Enumeration            | åbne porte / ip adresse  |    |   |
 | masscan   | Enumeration           |   undersøge maskiner online           |       |   |
 | GTFO bin  | Elevation                |             |    |   |
 |  Shodan   | Enumeration        |   |    |   |
 | Dirb      | Enumeration -> http(s)   | Http(s) tjekker directories  |   |   |
-|  VPN |   skjuler din oprindelige ip-adresse                   |             |  |   |
-| Kali Linux  |              | jo mere stille du kan være  |    |   |
+|  VPN |     |             |  |   |
+| Linux  | Kali, Ubuntu, Alma    | jo mere stille du kan være  |    |   |
 |   |               |  |    |   |
-|   |          |             |    |   |
+|   |          |             |    |  skjuler din oprindelige ip-adresse                  |
 |   |                  |             |    |   |
 |   |                     |             |     |   |
 |   |                      |             |    |   |
@@ -238,5 +238,6 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 |   |                         |             |  |   |
 |   |               |             |     |   |
 
+#### Nyttige Links
 
 
