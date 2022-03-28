@@ -215,9 +215,9 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 | RAT  |  Remote access trojan |  program der giver adgang til at bruge computer |     |   |
 | Botnet|                 |  Netværk af computere styret af robotter / af en person  | Kan brute force koder, og ddos'se serverer    |   |
 | HatteFarver | Blackhat whitehat Gryhat |             |     |   |
-|     |                   |             |     |   |
-|     |       |             |     |   |
-|     |       |             |     |   |
+| Telnet    |                   |             |     |   |
+| SSH   |       |             |     |   |
+| FTP    |       |             |     |   |
 
 
 | Værktøjer | Hvilket begreb benytter de  | formål         | Plads |   |
@@ -229,13 +229,13 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 | Dirb      | Enumeration -> http(s)   | Http(s) tjekker directories  |   |   |
 | VPN |     |             |  |   |
 | Linux  | Kali, Ubuntu, Alma    | jo mere stille du kan være  |    |   |
-|   |               |  |    |   |
-|   |          |             |    |  skjuler din oprindelige ip-adresse                  |
-|   |                  |             |    |   |
-|   |                     |             |     |   |
-|   |                      |             |    |   |
-|   |              |             |    |   |
-|   |                         |             |  |   |
+| Telnet  |               |  |    |   |
+| FTP  |          |             |    |  skjuler din oprindelige ip-adresse                  |
+| SSH  |                  |             |    |   |
+| SQL  |                     |             |     |   |
+| Filexella  |                      |             |    |   |
+| SMBclient  |              |             |    |   |
+| WAPPAlyzer  | Indentievicere programmer der kører på et netværk  |             |  |   |
 |   |               |             |     |   |
 
 #### Nyttige Links
@@ -247,6 +247,9 @@ https://www.shodan.io/ \
 https://owasp.org/www-project-top-ten/ \
 https://hackthebox.com/ \
 
+## Writeups på Hackthebox
+
+#### Meow
 
 
 
