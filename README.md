@@ -105,7 +105,7 @@ Logbog for informatik
 
   * __Vores projekt:__ Gennem forløbet har vi gjotdt brug af disse modeller til at vi som slutning skulle lavet et spil som skulle have implementeret en form for reklame. Vi har gjordt brug af disse modeller til at komme frem til målgrupper og reklamer ideer og herefter videre arbejdet på dem, for at tænke ideer til hvordan man kunne implementere dem i vores spil.
 
-## Computer Netværk
+# Computer Netværk
   
   #### Hvad vi gjorde 
 
@@ -203,16 +203,16 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 
 | Begreber| defination                         | mål         | Plads |   |
 |---------|---------------------------------|-------------|-------|---|
-| CTF | Capture the flag                |       root/user      |    |   |
+| CTF   | Capture the flag                |       root/user      |    |   |
 | root  | administator                            |             |       |   |
 | user  |                  |             |     |   |
 | GTFO  | GetTheFuckOut          |    |     |   |
 | Enumeration | Enumeration               | nmap   |     |   |
 | Elevation /"Privilege escalation |     |             |   |   |
-| WriteUP | beskrevet process i at hacke et system               |          |    |   |
+| WriteUP | beskrevet process i at hacke et system  |          |    |   |
 | Ethical Hacking |                 | |    |   |
-|  CVE |                  |             |    |   |
-| RAT  |  Remote access trojan                |  program der giver adgang til at bruge computer |     |   |
+| CVE |                  |             |    |   |
+| RAT  |  Remote access trojan |  program der giver adgang til at bruge computer |     |   |
 | Botnet|                 |  Netværk af computere styret af robotter / af en person  | Kan brute force koder, og ddos'se serverer    |   |
 | HatteFarver | Blackhat whitehat Gryhat |             |     |   |
 |     |                   |             |     |   |
@@ -225,9 +225,9 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 | nmap      | Enumeration            | åbne porte / ip adresse  |    |   |
 | masscan   | Enumeration           |   undersøge maskiner online           |       |   |
 | GTFO bin  | Elevation                |             |    |   |
-|  Shodan   | Enumeration        |   |    |   |
+| Shodan    | Enumeration        |   |    |   |
 | Dirb      | Enumeration -> http(s)   | Http(s) tjekker directories  |   |   |
-|  VPN |     |             |  |   |
+| VPN |     |             |  |   |
 | Linux  | Kali, Ubuntu, Alma    | jo mere stille du kan være  |    |   |
 |   |               |  |    |   |
 |   |          |             |    |  skjuler din oprindelige ip-adresse                  |
@@ -239,5 +239,14 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 |   |               |             |     |   |
 
 #### Nyttige Links
+https://gtfobins.github.io/
+https://tryhackme.com/
+https://www.hackthissite.org/
+https://guidedhacking.com/threads/hackthebox-markup-walkthrough.17386/
+https://www.shodan.io/ 
+https://owasp.org/www-project-top-ten/
+https://hackthebox.com/
+
+
 
 
