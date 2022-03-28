@@ -239,13 +239,13 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 |   |               |             |     |   |
 
 #### Nyttige Links
-https://gtfobins.github.io/\
-https://tryhackme.com/\
-https://www.hackthissite.org/\
-https://guidedhacking.com/threads/hackthebox-markup-walkthrough.17386/\
-https://www.shodan.io/\
-https://owasp.org/www-project-top-ten/\
-https://hackthebox.com/\
+https://gtfobins.github.io/ \
+https://tryhackme.com/ \
+https://www.hackthissite.org/ \
+https://guidedhacking.com/threads/hackthebox-markup-walkthrough.17386/ \
+https://www.shodan.io/ \
+https://owasp.org/www-project-top-ten/ \
+https://hackthebox.com/ \
 
 
 
