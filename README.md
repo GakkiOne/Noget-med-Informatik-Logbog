@@ -259,14 +259,12 @@ Dette gør vi ved at downloade deres openvpn og køre den gennem en openvpn ente
 
 Første task lyder følgende i Meow
 
-![Meowtask1](/images/.Meowtask1.png)
+![Meowtask1](/images/Meowtask1.png)
 
 Da dette er den første opgave er det nogle meget simple spørgsmål vi bliver stillet.
 Svaret denne kan man enten google, eller så ved man det hvis man tidligere har indstalleret en.
 
 De efterfølgende sprøgsmål minder på samme måde som spørgsmål 1. 
 
-![Meowtask2](/images/.Meowtask2.png)
-
-
+![Meowtask2](/images/Meowtask2.png)
 
