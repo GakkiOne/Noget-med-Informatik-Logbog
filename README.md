@@ -266,7 +266,7 @@ Svaret denne kan man enten google, eller så ved man det hvis man tidligere har 
 
 De efterfølgende sprøgsmål minder på samme måde som spørgsmål 1. 
 
-
+![Meowtask2](/images/.Meowtask2.png)
 
 
 
