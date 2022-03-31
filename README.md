@@ -270,3 +270,5 @@ De efterfølgende sprøgsmål minder på samme måde som spørgsmål 1.
 
 Ofte indeholder hackthebox spørgsmål som disse, hvor de spørger indtil de værktøjer som man senere bruger i opgaven. Dette hjælper også til at give en bedre forståelse af hvad programmerne gør, og hvornår man skal bruge dem.
 
+![Meowtask2](/images/Meowtask3.png)
+
