@@ -272,3 +272,12 @@ Ofte indeholder hackthebox spørgsmål som disse, hvor de spørger indtil de væ
 
 ![Meowtask2](/images/Meowtask3.png)
 
+Som den sidste task i Meow skal vi angive flaget, som vi kan anskue ligger et sted i root mappen.
+
+Vi bennytter os først i at pinge serveren som er blevet givet til os af HacktheBox. Herefter finder vi at der er respons, og vi kan så prøve at nmap ip'en for at se hvilke services og porte denne ip benytter.
+
+![Meowtask2](/images/Meowtask5.png)
+
+Vi finder at på port 23, bliver der brugt telnet, og vi kan så bruge at tilgå ip'en vha telnet
+
+![Meowtask2](/images/Meowtask4.png)
