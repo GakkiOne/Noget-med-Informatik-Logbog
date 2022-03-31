@@ -201,7 +201,7 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 
 ## Begreber Værktøjer og Links
 
-| Begreber| defination                         | mål         | Plads |   |
+| Begreber| defination                         | mål         | |   |
 |---------|---------------------------------|-------------|-------|---|
 | CTF   | Capture the flag                |       root/user      |    |   |
 | root  | administator                            |             |       |   |
@@ -215,24 +215,27 @@ Jeg har haft prøvet at installere kali linux gennem virtuelbox. Det lykkedes at
 | RAT  |  Remote access trojan |  program der giver adgang til at bruge computer |     |   |
 | Botnet|                 |  Netværk af computere styret af robotter / af en person  | Kan brute force koder, og ddos'se serverer    |   |
 | HatteFarver | Blackhat whitehat Gryhat |             |     |   |
-| Telnet    |                   |             |     |   |
-| SSH   |       |             |     |   |
+| Telnet   |  Telnet er en gammel version af SSH som der blev brugt til at skabe en connection mellem dig og en anden computer.             |             |     |   |
+| SSH   |  SSH er det nye sort i forhold til Telnet, det er meget mere sikkert men skaber stadig det samme formål, at kunne komunikere sikkert over nettet     | 
 | FTP    |       |             |     |   |
+| Escalation | Escalation er når vi begynder at gøre noget ved ip'en for at skaffe os selv administartor tilladelse eller for at vi opnår vores mål på den |             |     |   |
+| Foothold   | Et foothold er når du er kommet ind på en IP og skal starte med at escalate for at få administrator tilladelse |             |     |   |
 
 
-| Værktøjer | Hvilket begreb benytter de  | formål         | Plads |   |
+| Værktøjer | Hvilket begreb benytter de  | formål         |  |   |
 |-----------|---------------------------------|-------------|-------|---|
 | nmap      | Enumeration            | åbne porte / ip adresse  |    |   |
 | masscan   | Enumeration           |   undersøge maskiner online           |       |   |
 | GTFO bin  | Elevation                |             |    |   |
 | Shodan    | Enumeration        |   |    |   |
 | Dirb      | Enumeration -> http(s)   | Http(s) tjekker directories  |   |   |
-| VPN |     |             |  |   |
-| Linux  | Kali, Ubuntu, Alma    | jo mere stille du kan være  |    |   |
+| VPN |     |             |  |   | skjuler din oprindelige ip-adresse   
+| Linux  | Kali, Ubuntu, Alma    |      |    |   |
 | Telnet  |               |  |    |   |
-| FTP  |          |             |    |  skjuler din oprindelige ip-adresse                  |
+| FTP  |  Filetransfor protocol   |             |                |
 | SSH  |                  |             |    |   |
-| SQL  |                     |             |     |   |
+| SQL  | SQL er et sprog der er brugt i databaser       |             |     |   |
+| SQLinjection  | SQLinjection er en måde hvorpå vi kan skrive en sætning så en hjemmeside læser det som noget kode, som så er til vores fordel.   |     |   |
 | Filexella  |                      |             |    |   |
 | SMBclient  |              |             |    |   |
 | WAPPAlyzer  | Indentievicere programmer der kører på et netværk  |             |  |   |
@@ -250,6 +253,20 @@ https://hackthebox.com/ \
 ## Writeups på Hackthebox
 
 #### Meow
+Det første step som vi altid laver når vi skal lave en opgave på hackthebox er at establishe en connection til deres vpn server, så der ikke er mærkeligt trafik på nettet, hvor vi sidder og nmapper og hacker folks ip'er.
+Dette gør vi ved at downloade deres openvpn og køre den gennem en openvpn enten gennem kali som en terminal, eller på min mac bruger jeg Openvpnconnecter. Herefter køre min downloade og der bliver forbundet til deres VPN. Vi får hefter givet en IP som vi skal hacke.
+
+
+Første task lyder følgende i Meow
+
+![Meowtask1](/images/.Meowtask1.png)
+
+Da dette er den første opgave er det nogle meget simple spørgsmål vi bliver stillet.
+Svaret denne kan man enten google, eller så ved man det hvis man tidligere har indstalleret en.
+
+De efterfølgende sprøgsmål minder på samme måde som spørgsmål 1. 
+
+
 
 
 
