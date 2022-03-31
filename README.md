@@ -287,6 +287,9 @@ Jeg prøver først Admin og får respons "login incorrect". Jeg prøver så root
 
 ![Meowtask2](/images/Meowtask6.png)
 
+Nu jeg har root permissions, tjekker jeg først for at se hvad der ligger på Ip'en med commanden "ls". Jeg finder så at der ligger en fil ved navn: "flag.txt" , hvilket er præcis hvad vi er efter. Jeg bruger så commanden "cat" til at åbne filen og se den indhold. Hvorefter jeg finder flaget til opgaven. 
+
+![Meowtask2](/images/Meowtask7.png)
 
 
 
