@@ -281,3 +281,13 @@ Vi bennytter os først i at pinge serveren som er blevet givet til os af Hackthe
 Vi finder at på port 23, bliver der brugt telnet, og vi kan så bruge at tilgå ip'en vha telnet
 
 ![Meowtask2](/images/Meowtask4.png)
+
+Vi kommer ind på ip'en og den spørger os så efter et login til Meow. Vi kender nogle standarde som ofte er brugt til at logge ind, som Admin, Administrator og root.
+Jeg prøver først Admin og får respons "login incorrect". Jeg prøver så root, og ligepludselig er vi logget ind som root på Meow.
+
+![Meowtask2](/images/Meowtask6.png)
+
+
+
+
+
