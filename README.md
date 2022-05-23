@@ -109,8 +109,11 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 
 
 # Reklamespil Undervisningsspil
+
+#### Links til Docs dokumenter:
+https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/edit?usp=sharing
   
-  #### Hvad vi gjorde 
+  * __Hvad vi gjorde:__ 
  
   * __Målgruppeværktøjer:__ Vi har gjordt brug af Minerva modellen, AIDA modellen, forskellige spillertyper og til sidst Persona. Vi har skulle bruge dette til at lære hvordan man er mere målgruppe oriterenret når man laver et spil eller en reklame. Dette er vigtigt, da hvis målgruppen ikke er tænkt på kan en reklame eller psil mislykkes meget nemt.
 
@@ -136,7 +139,7 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 
 # Databaser
   
-  #### Hvad vi gjorde 
+  * __Hvad vi gjorde:__ 
  
   * __MariaDB:__ I database forløbet bygget vi videre på database delen vha. af MariaDB. Vi oprettet en ny database hvor vi oprettet en bruger og password til brugeren. Vi kunne så derefter overfører en fil grunstoffer.sql til databasen, så vores linux server kan læse og forstå sql koden vha. php så linux server kan omformatere det til html kode, og vi kan få vist vores grundstoffer på vores hjemmeside.
 
@@ -198,6 +201,11 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 | 14 | LED output when follow line     |             | MP    |   |
 
 # Datavisualisering studietur
+
+#### Links til Docs dokumenter:
+https://docs.google.com/document/d/10wMGAttG1q7NYcAc_85BjgEhc6PlxWiU4HB7rFuRtyU/edit?usp=sharing 
+
+  ![studietur](/images/studietur.png)
 
 # Flask SQLite Databaser
 
