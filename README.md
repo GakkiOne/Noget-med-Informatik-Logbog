@@ -17,6 +17,10 @@ Logbog for informatik
  
 
 # Makeraktiviteter
+
+#### Links til Docs dokumenter:
+https://docs.google.com/document/d/1DeSW1M0WQySzp8mo_GOw4LCNAbeBh1JyzH-VG8q2agI/edit?usp=sharing
+
   * __Hvad vi gjorde:__ 
   Vi brugte Fusion 360 til at lave en 3 figur, som skulle have et rumfang på 10cm^3, og have vores initial ingravet i figuren. Jeg valgte at lave en kugle, cylinder og firkant     og have bogstavet M ingravet. Vi gik 3 sammen om at udprint vores figure i makerspace. 24 timer senere var Figurene færdige, og de endte med at se rigtig gode ud. 
  
@@ -50,6 +54,11 @@ Logbog for informatik
    
    
 # Dronecontroller
+
+Links til Docs dokumenter:
+https://docs.google.com/document/d/1pdIzVUKyGXPNV9TDJ2X0LmuK9PhfvtgqaAyim8_kqsU/edit?usp=sharing
+
+
   * __Hvad vi gjorde:__ 
   Under vores forlåb med Dronecontroller har vi både lavet en iteration 0, 1, brugerundersøgelse og en rapport. Vores iteration 0 gik ud på at brainstorme en ide til hvad vores   controller skulle indholde, så dronen kunne udføre en opgave. Vi lavede blandt andet et flowchart over hvordan controlleren skulle virke og hvilke knapper den skulle have. Vi   lavede også et blokdiagram der viste hvordan controlleren og dronen skulle hængde sammen.
  
@@ -292,5 +301,11 @@ Nu jeg har root permissions, tjekker jeg først for at se hvad der ligger på Ip
 ![Meowtask2](/images/Meowtask7.png)
 
 
+# Computer vision og killer drones
+
+#### Links til Docs dokumenter:
+https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/edit?usp=sharing 
+
+![killerdrone](/images/killerdrone.jpeg)
 
 
