@@ -2,19 +2,19 @@
 Logbog for informatik
 
 ## Indholdsfortegnelse
-* [Makeraktiviteter](#Makerspace-aktiviteter)
+* [Makerspace aktiviteter](#Makerspace-aktiviteter)
 * [Systemdesign](#Systemdesign)
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
-* [Sikkerhed Privathed](#Sikkerhed-Privathed)
-* [Reklamespil / Undervisningsspil](#Reklamespil-Undervisningsspil)
-* [Computer / Netværk](#Computer-Netværk)
+* [Sikkerhed og Privathed](#Sikkerhed-Privathed)
+* [Reklamespil og Undervisningsspil](#Reklamespil-Undervisningsspil)
+* [Computer og Netværk](#Computer-Netværk)
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
 * [Flask / SQLite / Databaser](#Flask-SQLite-Databaser)
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
-* [Computer Vision/Killer Drones](#Computer-Vision-Killer-Drones)
+* [Computer Vision og Killer Drones](#Computer-Vision-Killer-Drones)
  
 
 # Makerspace aktiviteter
