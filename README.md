@@ -12,9 +12,8 @@ Logbog for informatik
 * [Databaser](#Databaser)
 * [Robotteknologi](#Robotteknologi)
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
-* [Flask / SQLite / Databaser](#Flask-SQLite-Databaser)
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
-* [Computer Vision og Killer Drones](#Computer-Vision-Killer-Drones)
+* [Computervision Killer Drones](#Computervision-Killer-Drones)
  
 
 # Makerspace aktiviteter
@@ -65,14 +64,14 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 
 
   * __Hvad vi gjorde:__ 
-  Under vores forlåb med Dronecontroller har vi både lavet en iteration 0, 1, brugerundersøgelse og en rapport. Vores iteration 0 gik ud på at brainstorme en ide til hvad vores   controller skulle indholde, så dronen kunne udføre en opgave. Vi lavede blandt andet et flowchart over hvordan controlleren skulle virke og hvilke knapper den skulle have. Vi   lavede også et blokdiagram der viste hvordan controlleren og dronen skulle hængde sammen.
+  Under vores forlåb med Dronecontroller har vi både lavet en iteration 0, 1, brugerundersøgelse og en rapport. Vores iteration 0 gik ud på at brainstorme en ide til hvad vores controller skulle indholde, så dronen kunne udføre en opgave. Vi lavede blandt andet et flowchart over hvordan controlleren skulle virke og hvilke knapper den skulle have. Vi lavede også et blokdiagram der viste hvordan controlleren og dronen skulle hængde sammen.
  
  ![blokdiagramdrone](/images/blokdiagramdrone.png)
  ![flowchartdrone](/images/flowchartdrone.png)
  
- Vores iteration 1 indeholdede koden til arduinoen som fik vores joystick og knap til at måle data og sende det til arduinoen. Vi havde også begyndelsen på vores python kode til   både joysticket og vores knap.
+ Vores iteration 1 indeholdede koden til arduinoen som fik vores joystick og knap til at måle data og sende det til arduinoen. Vi havde også begyndelsen på vores python kode til både joysticket og vores knap.
  
-  I vores rapport fik vi opdateres vores flowchart så det passede bedre til det vores controller kunne i slutningen af forlåbet. Vi fikl skrevet vores kode færdig så vi kunne     modtage data fra controlleren og bruge det i python til at lave beregninger.
+  I vores rapport fik vi opdateres vores flowchart så det passede bedre til det vores controller kunne i slutningen af forlåbet. Vi fikl skrevet vores kode færdig så vi kunne modtage data fra controlleren og bruge det i python til at lave beregninger.
   
   ![arduino](/images/arduino.png)
   Arduinokode
@@ -80,7 +79,7 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
   Pythonkode
 
   * __Hvad lærte vi:__
-  Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på   alt der blivet lavet.
+  Gennem vores Dronecontroller projekt har vi lært meget omkring hvordan vi bruger vores forskellige redskaber som brainstorm, blokdiagramer, opgavelister, tidsplan og flowcharts til at få opsat en god iteration 0, som vi så kan gå videre med til den næste iteration osv. På den måde har vi fået skabt et arbejdsmiljø hvor vi kan have styr på alt der blivet lavet.
   Derudover lavede vi også en brugerundersøgelse hvor vi brugte gestaltlovene til at klargøre hvad det var vi ville undersøge og forbedre ved vores controller.
   
   
@@ -103,16 +102,12 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 |                   |           |   |   |   |
 
 * __Se billede over:__ Her over har vi kigget på hvilken slags information der kan være følsomme persondata, som vi deler med forskellige private og offentlige virksomheder
-  
-  * __Hvad lærte vi:__ 
 
 
 # Reklamespil Undervisningsspil
 
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/edit?usp=sharing
-  
-  * __Hvad vi gjorde:__ 
  
   * __Målgruppeværktøjer:__ Vi har gjordt brug af Minerva modellen, AIDA modellen, forskellige spillertyper og til sidst Persona. Vi har skulle bruge dette til at lære hvordan man er mere målgruppe oriterenret når man laver et spil eller en reklame. Dette er vigtigt, da hvis målgruppen ikke er tænkt på kan en reklame eller psil mislykkes meget nemt.
 
@@ -122,8 +117,6 @@ https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/
   * __Vores projekt:__ Gennem forløbet har vi gjotdt brug af disse modeller til at vi som slutning skulle lavet et spil som skulle have implementeret en form for reklame. Vi har gjordt brug af disse modeller til at komme frem til målgrupper og reklamer ideer og herefter videre arbejdet på dem, for at tænke ideer til hvordan man kunne implementere dem i vores spil.
 
 # Computer Netværk
-  
-  * __Hvad vi gjorde:__  
 
   * __OSI Model:__ OSI modellen er et vigtigt værktøj, hvis man skal forstå sammhenhængen mellem netværk og computer, og hvordan vores internet hængersammen og fungere. Vi har kigget på de 7 lagrer som OSI modellen består af og lært hvordan hvet enkelt lagrer intergerer og hvilke opgaver de hver i ser tager sig af.
 
@@ -132,20 +125,17 @@ https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/
 
   * __Linux:__ For dem der ikke allerede havde et linux system skulle de installere ubuntu, som er en slags virtuel linux system for windows brugere.
 
-  * __Nginx:__ 
-
   * __Sikkerhed:__ Vi har haft kigget meget på sikkerhed og hvordan beskyttelse på internetet fungere når man surfer rundt på hjemmesider, og andre former for platforme. SSH er en essentiel del af vores netværk og hvordan vi kommunikere med web-servere. Vi har også kort kigget på firewalls og sat dem op vha. nginx. Et redje parameter for sikkerhed er rsa nøglepar, som er ret kompliceret. 
 
 # Databaser
-  
-  * __Hvad vi gjorde:__ 
  
   * __MariaDB:__ I database forløbet bygget vi videre på database delen vha. af MariaDB. Vi oprettet en ny database hvor vi oprettet en bruger og password til brugeren. Vi kunne så derefter overfører en fil grunstoffer.sql til databasen, så vores linux server kan læse og forstå sql koden vha. php så linux server kan omformatere det til html kode, og vi kan få vist vores grundstoffer på vores hjemmeside.
 
 
 # Robotteknologi
   
-  ####
+#### Links til Docs dokumenter
+https://docs.google.com/document/d/10MErmHG5KBpREaw7ioNZp7Tbc9x8EMjafhicWOKPsnU/edit?usp=sharing
   
    ![Maqueen](/images/Maqueen.jpeg)
  
@@ -212,9 +202,6 @@ Her under ses et billede af den visualiseret data som en graf af Kcal og afstand
 
   ![studietur](/images/studietur.png)
 
-# Flask SQLite Databaser
-
-  * __Hvad vi gjorde:__
 
 # Hacking Cybersikkerhed
 
@@ -321,11 +308,17 @@ Nu jeg har root permissions, tjekker jeg først for at se hvad der ligger på Ip
 ![Meowtask2](/images/Meowtask7.png)
 
 
-# Computer Vision Killer Drones
+# Computervision Killer Drones
 
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/edit?usp=sharing 
 
+* __Gennemgang af projetk:__ Vi har gennem dette projekt arbejde med tello droner og hvordan vi kan få dem til at fungere som en killer drone. En killer drone skal altså kunne genkende en person og derefter flyve mod dem. Vores første tanker gik på at dronen skulle bruge facial recognigtion til at genkende en person. Dette gjorde vi gennem librariet openCV, som er et open source library til machine learning. Når dronen så kan genkende et ansigt skal den så flyve mod personen. Den skal altså centrere dens kamera med ansigtet og herefter flyve mod målet. 
+
 ![killerdrone](/images/killerdrone.jpeg)
+Her ses det første ide tænkning bag hvordan en killerdrone kunne fungere.
+
+* __Koden:__ I koden bruger vi så openCV til hente en færdig lavet model for facial recognigtion. Denne model fungere altså som en AI som er trænet til at genkende ansigter og herefter lave en grøn firkant rundt om det. Vi får dog et problem i koden når den både skal genkende et ansigt, tegne figuren og drone skal flyve. Her benytter vi os af threading, som deler opgaverne mellem flere processer i computerens CPU.
+
 
 
