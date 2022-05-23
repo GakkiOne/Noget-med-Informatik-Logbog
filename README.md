@@ -85,7 +85,7 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
   
   
 # Sikkerhed Privathed
-  * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og    Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
+  * __Hvad vi gjorde:__ Indtil videre har vi haft kigget på, hvordan vi som bruger på internettet bliver overvåget, og hvad man kan gøre for at beskytte sig selv, mod Hackers og Scams på nettet. Vi har set filmen Snowden som handlede om ham der offentlig gjorde at FBI og NSA overvåger folk på deres Mails og bærbare kameraer.
   
 | Datatype          | Følsomhed |   |   |   |
 |-------------------|-----------|---|---|---|
@@ -102,8 +102,7 @@ https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/
 | Arbejdsområde     | Normal    |   |   |   |
 |                   |           |   |   |   |
 
-
-  Vi har kigget på hvor følsomme persondata det er vi deler med forskellige private og offentlige virksomheder
+* __Se billede over:__ Her over har vi kigget på hvilken slags information der kan være følsomme persondata, som vi deler med forskellige private og offentlige virksomheder
   
   * __Hvad lærte vi:__ 
 
@@ -124,7 +123,7 @@ https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/
 
 # Computer Netværk
   
-  #### Hvad vi gjorde 
+  * __Hvad vi gjorde:__  
 
   * __OSI Model:__ OSI modellen er et vigtigt værktøj, hvis man skal forstå sammhenhængen mellem netværk og computer, og hvordan vores internet hængersammen og fungere. Vi har kigget på de 7 lagrer som OSI modellen består af og lært hvordan hvet enkelt lagrer intergerer og hvilke opgaver de hver i ser tager sig af.
 
@@ -205,9 +204,17 @@ https://docs.google.com/document/d/108haBVGmxM1_J7sLu9zPmf6M_01Cjnja-eQtwSRKEKI/
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/10wMGAttG1q7NYcAc_85BjgEhc6PlxWiU4HB7rFuRtyU/edit?usp=sharing 
 
+  * __Hvad vi gjorde:__ Vi har gennem dette korte forløb brugt den data som vi indsamlede fra vores studietur i københavn. På vores studieturen brugte vi en app der målte vores daglige aktivitet, som antal skridt, kalorie forbrænding og etager gået. Denne app kunne så omformatere dataen til en CSV fil som python kunne tage imod og læse. Vi har så i dette projekt skulle visualisere denne indsamlede data i form af grafer.
+
+  * __Hvad lærte vi:__ Vi har gennem dette projektet lært hvordan man indsamler data og får det visualiseret gennem det program som python. Gennem Python lærte vi hvordan man sortere store mængder datasæt, og hvordan vi kan udtrække en bestemt linje mellem tusindvis. Vi har så skulle opdele denne linje, og lave CSV filen om til information som python kan læse, dette har vi gjordt med libraries som pandas. Til sidst har vi lært hvordan vi får visualiseret denne information  gennem libraries som matplotlib. 
+
+Her under ses et billede af den visualiseret data som en graf af Kcal og afstand gået over ugens 5 dage
+
   ![studietur](/images/studietur.png)
 
 # Flask SQLite Databaser
+
+  * __Hvad vi gjorde:__
 
 # Hacking Cybersikkerhed
 
