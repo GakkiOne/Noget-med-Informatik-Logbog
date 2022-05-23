@@ -36,6 +36,10 @@ https://docs.google.com/document/d/1DeSW1M0WQySzp8mo_GOw4LCNAbeBh1JyzH-VG8q2agI/
   
 
 # Systemdesign
+
+#### Links til Docs dokumenter
+https://docs.google.com/document/d/1pdIzVUKyGXPNV9TDJ2X0LmuK9PhfvtgqaAyim8_kqsU/edit?usp=sharing
+
   * __Hvad vi gjorde:__ 
   Vi lavede en analyse af hvordan Tello Dronen fungerede, og hvordan dens systemer var opbygget og hængte sammen. Vi lavede blandt andet en 3-lagsmodel over hvordan vi troede     Tello dronens systemer snakkede sammen med hinanden. Efter lavede jeg et blokdiagram som visualiserede hvad systemets 3-lag indeholdte og hvordan de snakkede sammen.
   * __Hvad lærte vi:__
@@ -57,7 +61,7 @@ https://docs.google.com/document/d/1DeSW1M0WQySzp8mo_GOw4LCNAbeBh1JyzH-VG8q2agI/
 # Dronecontroller
 
 Links til Docs dokumenter:
-https://docs.google.com/document/d/1pdIzVUKyGXPNV9TDJ2X0LmuK9PhfvtgqaAyim8_kqsU/edit?usp=sharing
+https://docs.google.com/document/d/1JXWgicdizseZqp_rhtRlb4IihWqWH4T9QP3jBQQGAOM/edit?usp=sharing
 
 
   * __Hvad vi gjorde:__ 
