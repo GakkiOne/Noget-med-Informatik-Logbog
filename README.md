@@ -2,7 +2,7 @@
 Logbog for informatik
 
 ## Indholdsfortegnelse
-* [Makeraktiviteter](#Makeraktiviteter)
+* [Makeraktiviteter](#Makerspace-aktiviteter)
 * [Systemdesign](#Systemdesign)
 * [Programmering](#Programmering)
 * [Dronecontroller](#Dronecontroller)
@@ -14,6 +14,7 @@ Logbog for informatik
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
 * [Flask / SQLite / Databaser](#Flask-SQLite-Databaser)
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
+* [Computer Vision / Killer Drones](#Computer-Visions-Killer-Drones)
  
 
 # Makeraktiviteter
@@ -301,7 +302,7 @@ Nu jeg har root permissions, tjekker jeg først for at se hvad der ligger på Ip
 ![Meowtask2](/images/Meowtask7.png)
 
 
-# Computer vision og killer drones
+# Computer vision killer drones
 
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/edit?usp=sharing 
