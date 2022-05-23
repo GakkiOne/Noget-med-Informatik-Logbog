@@ -14,10 +14,10 @@ Logbog for informatik
 * [Datavisualisering / studietur](#Datavisualisering-studietur)
 * [Flask / SQLite / Databaser](#Flask-SQLite-Databaser)
 * [Hacking / Cybersikkerhed](#Hacking-Cybersikkerhed)
-* [Computer Vision / Killer Drones](#Computer-Visions-Killer-Drones)
+* [Computer Vision/Killer Drones](#Computer-Vision-Killer-Drones)
  
 
-# Makeraktiviteter
+# Makerspace aktiviteter
 
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/1DeSW1M0WQySzp8mo_GOw4LCNAbeBh1JyzH-VG8q2agI/edit?usp=sharing
@@ -302,7 +302,7 @@ Nu jeg har root permissions, tjekker jeg først for at se hvad der ligger på Ip
 ![Meowtask2](/images/Meowtask7.png)
 
 
-# Computer vision killer drones
+# Computer Vision Killer Drones
 
 #### Links til Docs dokumenter:
 https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/edit?usp=sharing 
